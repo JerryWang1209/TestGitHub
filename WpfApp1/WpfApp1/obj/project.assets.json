@@ -1,0 +1,56 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v6.0,Profile=windows": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v6.0,Profile=windows": []
+  },
+  "packageFolders": {
+    "C:\\Users\\78573\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\sqlTest\\TestGitHubV3\\TestGitHub\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "projectName": "WpfApp1",
+      "projectPath": "D:\\sqlTest\\TestGitHubV3\\TestGitHub\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "packagesPath": "C:\\Users\\78573\\.nuget\\packages\\",
+      "outputPath": "D:\\sqlTest\\TestGitHubV3\\TestGitHub\\WpfApp1\\WpfApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\78573\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net60-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\78573\\.nuget\\packages": {},
+        "D:\\local": {}
+      },
+      "frameworks": {
+        "net60-windows": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net60-windows": {}
+    }
+  }
+}
